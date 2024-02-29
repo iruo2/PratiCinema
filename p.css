@@ -1,4 +1,4 @@
 p {
-  font_color = white;
+  font_color = white !important;
   background: #191c34;
 }
