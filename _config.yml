@@ -1,5 +1,6 @@
 title: PratiCinema
-url: "https://iruo2.github.io/PratiCinema/"
+baseurl: "/PratiCinema"
+url: "https://iruo2.github.io"
 markdown: kramdown
 theme: jekyll-theme-architect
 exclude: [vendor]
