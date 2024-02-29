@@ -1,3 +1,5 @@
+title: PratiCinema
+url: "https://iruo2.github.io/PratiCinema/"
+markdown: kramdown
 theme: jekyll-theme-architect
-
-
+exclude: [vendor]
