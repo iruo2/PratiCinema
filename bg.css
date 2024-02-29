@@ -1,8 +1,8 @@
-html {
+h1 {
   height:100%;
 }
 
-body {
+h1 {
   margin:0;
 }
 
@@ -18,16 +18,16 @@ h1 {
   z-index:-1;
 }
 
-.bg2 {
+h1 {
   animation-direction:alternate-reverse;
   animation-duration:4s;
 }
 
-.bg3 {
+.h1 {
   animation-duration:5s;
 }
 
-.content {
+h1 {
   background-color:rgba(255,255,255,.8);
   border-radius:.25em;
   box-shadow:0 0 .25em rgba(0,0,0,.25);
