@@ -1,4 +1,3 @@
-<style>
 body {@grid: 18 / 100vmax / #0a0c27;
 --hue: calc(180 + 1.5 * @x * @y);
 background: hsl(var(--hue), 50%, 70%);
@@ -10,4 +9,3 @@ clip-path: polygon(@pick(
   '0 0, 100% 100%, 0 100%',
   '100% 0, 100% 100%, 0 100%'
 ));}
-</style>
