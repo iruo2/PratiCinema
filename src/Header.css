@@ -1,0 +1,49 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+.header{
+    top: 0;
+    width: 100%;
+    position: fixed;
+    left: 0px;
+    background: linear-gradient(to right, #0096C7, #ADD8E6);
+    --bs-bg-opacity: 1;
+    z-index: 5;
+}
+
+.navbar-brand{
+    color: white;
+    font-weight: bold;
+    font-family: 'Architects Daughter';
+}
+
+.nav-link{
+    color: white;
+}
+
+select {
+    background: none;
+    padding: 0;
+}
+
+.dropdown:hover .dropdown-menu  {
+    display: block;
+    margin-top: 0;
+}
+
+.bi{
+    width: 1em;
+    height: 1em;
+}
+
+.redTxt{
+    color: red
+}
+
+.redTxt:hover{
+    background-color: #ff846e;
+}
+
+.usernameTxt{
+    padding-left: 16px;
+    font-weight: bold;
+}
