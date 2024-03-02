@@ -1,5 +1,6 @@
 export default function Home(){
-    return(
-        <></>
-    );
+    return(<>
+        <h1>Benvenuto al PratiCinema!</h1>        
+        
+    </>);
 }

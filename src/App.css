@@ -4,6 +4,10 @@
   text-align: center;
 }
 
+body {
+  place-items: inherit !important;
+  font-family: Montserrat,sans-serif;
+}
 
 .mainPos {
   width: 80vw;
