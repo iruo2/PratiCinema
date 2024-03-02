@@ -11,23 +11,10 @@
 .navbar-brand{
     color: white;
     font-weight: bold;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 .nav-link{
     color: white;
-}
-
-select {
-    background: none;
-    padding: 0;
-}
-
-.dropdown:hover .dropdown-menu  {
-    display: block;
-    margin-top: 0;
-}
-
-.bi{
-    width: 1em;
-    height: 1em;
 }
