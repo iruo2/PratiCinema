@@ -5,12 +5,11 @@
 }
 
 
-p {
-  background: #0096C7 !important;
-}
-
 .mainPos {
   width: 80vw;
-  height: 80vh;
   padding-top: 5vh;
+}
+
+p {
+  margin-bottom: 0rem;
 }
