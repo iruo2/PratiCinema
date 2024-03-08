@@ -1,8 +1,8 @@
 import { Route, Routes } from 'react-router-dom'
-import Header from './Header'
-import Rules from './Rules'
-import Home from './Home'
-import FilmList from './FilmList'
+import Header from './components/Header'
+import Rules from './components/Rules'
+import Home from './components/Home'
+import FilmList from './components/FilmList'
 import './App.css'
 
 function App() {
