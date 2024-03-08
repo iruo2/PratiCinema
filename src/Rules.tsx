@@ -13,19 +13,19 @@ export default function Rules(){
             </span>
 
             <span style={{fontSize: '12px'}}>
-            <strong>(in fondo alla pagina il link al gruppo)</strong></span>
+                <strong>(in fondo alla pagina il link al gruppo)</strong>
+            </span>
         </div>
         
-        <div className='card'>
-            <p>
-            Questo link è il luogo dove vengono raccolte le informazioni sul <span style={{color: 'rgb(85, 57, 130)', fontSize: '20px'}}><strong>PratiCinema</strong></span>. 
+        <p className='card'>
+            Questo link è il luogo dove vengono raccolte le informazioni sul <strong style={{color: 'rgb(85, 57, 130)', fontSize: '20px'}}>PratiCinema</strong>. 
             L'obiettivo &egrave; quello di creare un luogo dove l'interesse per il cinema si unisca con l'opportunit&agrave; di conoscere persone con interessi in comune, discutere di attualit&agrave; ed eventualmente dibattere.&nbsp;
-            </p>
-        </div>
+        </p>
+        
         
         <div className='card'>
             <p>
-                L'importanza del <span style={{color: 'rgb(0, 0, 0)'}}><strong>gruppo&nbsp;</strong></span>va oltre la semplice visione di un film.
+                L'importanza del gruppo va oltre la semplice visione di un film.
             </p>
         </div>
         

@@ -1,9 +1,9 @@
 import { Route, Routes } from 'react-router-dom'
-import './App.css'
 import Header from './Header'
 import Rules from './Rules'
 import Home from './Home'
 import FilmList from './FilmList'
+import './App.css'
 
 function App() {
 
@@ -24,3 +24,4 @@ function App() {
 }
 
 export default App
+

@@ -1,5 +1,4 @@
-img {
-    max-width: 10%;
+.mainImg {
+    width: 70vh;
     height: auto;
-    object-fit: cover;
 }
